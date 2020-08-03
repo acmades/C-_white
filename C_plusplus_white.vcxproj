@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C_plusplus_white.cpp" />
+    <ClCompile Include="week3-constr-init.cpp" />
+    <ClCompile Include="week3-constr-names-3.cpp" />
+    <ClCompile Include="week3-constr-string.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_plusplus_white.cpp">
+    <ClCompile Include="week3-constr-string.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="week3-constr-names-3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="week3-constr-init.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
